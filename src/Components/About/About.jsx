@@ -15,7 +15,7 @@ function About() {
       Let’s build something amazing together!</p>
     <button className="w-40 h-10 text-[18px] hidden md:block font-bold rounded-full text-[#ffffff] ml-30 mt-4 md:mt-5  cursor-pointer bg-gradient-to-r from-[#2c0024] to-[#c08fc0]"
       >More about me</button>
-      <button className="w-40 h-10 md:hidden text-[18px] font-bold rounded-full text-[#ffffff] ml-30 mt-4 cursor-pointer bg-gradient-to-r from-[#2c0024] to-[#c08fc0]"
+      <button className="w-40 h-10 md:hidden text-[18px] font-bold rounded-full text-[#ffffff] mr-15 mt-4 cursor-pointer bg-gradient-to-r from-[#2c0024] to-[#c08fc0]"
       >Download CV</button>
 </div>
 </div>
