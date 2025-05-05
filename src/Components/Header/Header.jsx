@@ -7,7 +7,7 @@ function Header() {
   return (
     <header className="mt-8 justify-center flex">
         <nav >
-        <div className="font-bold items-center h-10  md:h-15 flex rounded-full px-4 justify-evenly  bg-[url('Images/bgImage.jpg')] bg-cover bg-center flex-nowrap">
+        <div className="font-bold items-center h-10  md:h-15 flex rounded-full px-4 justify-evenly  bg-[url('/Images/bgImage.jpg')] bg-cover bg-center flex-nowrap">
             <p className='font-bold md:text-3xl text-xl text-[#3c0b51]'>Portfolio</p>
             <div className='md:text-lg text-[15px]'>
             <ul className="flex items-center justify-evenly  text-[#1b1d37] ">
