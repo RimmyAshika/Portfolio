@@ -9,7 +9,7 @@ function Home() {
           <p className='text-[#fffbff] md:pt-9 pt-4 md:text-4xl text-xl font-mono'>Frontend Developer | Passionate Coder</p>
         </div>
         <div className='md:h-130 md:w-130 h-80 w-80 md:mt-15 mt-10   '>
-          <img  className="md:rounded-full rounded-t-full md:mr-20 ml-5 flex flex-wrap flex-col" src="./Images/profile.jpg" alt="" />
+          <img  className="md:rounded-full rounded-t-full md:mr-20 ml-5  mb-3 flex flex-wrap flex-col" src="./Images/profile.jpg" alt="" />
         </div>
    </div>
   )
