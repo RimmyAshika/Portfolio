@@ -7,10 +7,10 @@ function Header() {
     <header className="mt-8 justify-between  md:mx-90">
         
         <nav >
-        <div className="font-bold  items-center h-10  md:h-15 flex rounded-full flex-wrap justify-evenly  bg-[url('Images/bgImage.jpg')] bg-cover bg-center ">
+        <div className="font-bold  items-center h-10  md:h-15 flex rounded-full flex-wrap justify-evenly  bg-[url('/public/Images/background.jpg')] bg-cover bg-center ">
             <p className='font-bold md:text-3xl text-lg text-[#3c0b51]'>Portfolio</p>
             
-            <div className='md:text-lg text-[15px]'>
+            <div className='md:text-lg text-[2rem]'>
             <ul className="flex items-center justify-evenly text-[#1b1d37] ">
             <li >
             <NavLink to="/" className={({isActive})=>`hover:underline ${isActive ?"text-[#211C84]" :" text-black"} 

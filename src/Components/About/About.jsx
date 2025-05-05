@@ -5,7 +5,7 @@ function About() {
     <div className="h-auto w-full flex flex-warp font-serif flex-col items-center mt-10  md:mt-10 ">
       <div className="font-extrabold text-4xl text-red-950 "> About me!</div>
       <div className='flex flex-wrap  flex-row'>
-      <img className="md:h-120 md:w-120 h-80 w-80 md:mt-8 md:ml-0 ml-10 mt-10 rounded-full md:rounded-t-full " src="Images/profile.jpg" alt="" />
+      <img className="md:h-120 md:w-120 h-80 w-80 md:mt-8 md:ml-0 ml-10 mt-10 rounded-full md:rounded-t-full " src="/public/Images/background.jpg" alt="" />
       <div className=' text-justify md:text-balance '>
     <p className='md:h-auto md:mt-20 mt-10   md:ml-30 md:w-200 font-serif md:font-mono text-md m-2 md:text-xl'>
       Hi! I’m Rimmy Ashika Verma, a passionate and detail-oriented Frontend Developer with a strong foundation in HTML, CSS, JavaScript, and modern libraries like React and Tailwind CSS.
