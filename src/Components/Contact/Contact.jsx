@@ -41,7 +41,7 @@ function Contact() {
     <div className='md:h-20 md:w-8 h-6 w-6  mt-1 md:mt-2  flex flex-col  flex-wrap '>
       <Link 
       to="https://www.facebook.com/profile.php?id=100050938277009">
-      <img className="rounded-full m-2 border-2 hover:border-pink-700"  src="/Images/contact-fb.jpeg" alt="" 
+      <img className="rounded-full p-1 m-2 border-2 hover:border-pink-700"  src="/Images/contact-fb.jpeg" alt="" 
       /></Link>
       <Link 
       to="https://www.instagram.com/rimmy0224/">
@@ -51,7 +51,7 @@ function Contact() {
       <img className="rounded-full m-2 p-1 border-2 hover:border-pink-700" src="/Images/contact-github.jpeg" alt="" /></Link>
       <Link 
       to="https://www.linkedin.com/in/rimmy-ashika-verma-48b3401b8/">
-      <img  className="rounded-full m-2 border-2 hover:border-pink-700" src="Images/contact-linkedin.jpeg" alt="" /></Link>
+      <img  className="rounded-full m-2 p-1 border-2 hover:border-pink-700" src="Images/contact-linkedin.jpeg" alt="" /></Link>
     </div>
   </div>
   <div className="md:h-auto h-65  md:mt-5 mt-15 flex flex-col flex-wrap">
