@@ -7,14 +7,14 @@ function Skills() {
       <div className="font-extrabold text-4xl text-red-950 "> My Skills</div>
       <div className="flex justify-evenly  mt-18 md:mt-15 w-full animate-pulse font-bold font-serif md:text-2xl text-md  text-violet-950 ">
       <p >Technical Skills </p>
-        <p className=''> Professional Skills</p>
+        <p > Professional Skills</p>
         </div>
       </div>
       <div className="flex md:flex-row flex-wrap md:h-auto  justify-evenly">
         {/* technical skills */}
-      <div className="flex flex-wrap font-mono text-[30px] h-auto ml-7 md:text-xl text-black  flex-col">
+      <div className="flex flex-wrap font-mono text-[30px]  h-auto ml-7 md:text-xl text-black  flex-col">
       <p className="  mt-13 md:mt-3 md:px-30 ">
-      <img className="h-6 w-6 " src="Images/c-logo.jpeg" alt="" />C</p>
+      <img className="h-6 w-6   " src="Images/c-logo.jpeg" alt="" />C</p>
       <div className="md:block hidden">
       <div className="h-4 w-90 flex  flex-col justify-center flex-wrap ml-30 bg-slate-600 rounded-r-full">
         <div  className="h-4 w-75 bg-pink-400  rounded-r-full " ></div>
@@ -22,17 +22,8 @@ function Skills() {
       </div>
       </div>
 
-      <p className=" mt-3 md:px-30  ">
-      <img className="h-6 w-6 " src="Images/html-logo.jpeg" alt="" />HTML</p>
-      <div className="md:block hidden">
-      <div className="h-4 w-90 flex  flex-col justify-center flex-wrap ml-30 bg-slate-600 rounded-r-full">
-        <div  className="h-4 w-75 bg-pink-400  rounded-r-full " ></div>
-      <p className="ml-15 text-lg font-bold text-red-950">80%</p>
-      </div>
-      </div>
-
-      <p className=" mt-3 md:px-30 ">
-      <img className="h-6 w-6 " src="Images/CSS-logo.jpeg" alt="" />CSS</p>
+      <p className=" mt-3 md:px-30  "> 
+      <img className="h-6 w-6  " src="Images/html-logo.jpeg" alt="" />HTML</p>
       <div className="md:block hidden">
       <div className="h-4 w-90 flex  flex-col justify-center flex-wrap ml-30 bg-slate-600 rounded-r-full">
         <div  className="h-4 w-75 bg-pink-400  rounded-r-full " ></div>
@@ -41,7 +32,16 @@ function Skills() {
       </div>
 
       <p className=" mt-3 md:px-30 ">
-      <img className="h-6 w-6" src="Images/js-logo.jpeg" alt="" />Javascript</p>
+      <img className="h-6 w-6  " src="Images/CSS-logo.jpeg" alt="" />CSS</p>
+      <div className="md:block hidden">
+      <div className="h-4 w-90 flex  flex-col justify-center flex-wrap ml-30 bg-slate-600 rounded-r-full">
+        <div  className="h-4 w-75 bg-pink-400  rounded-r-full " ></div>
+      <p className="ml-15 text-lg font-bold text-red-950">80%</p>
+      </div>
+      </div>
+
+      <p className=" mt-3 md:px-30 ">
+      <img className="h-6 w-6 " src="Images/js-logo.jpeg" alt="" />Javascript</p>
       <div className="md:block hidden">
       <div className="h-4 w-90 flex  flex-col justify-center flex-wrap ml-30 bg-slate-600 rounded-r-full">
         <div  className="h-4 w-65 bg-pink-400  rounded-r-full " ></div>
@@ -50,7 +50,7 @@ function Skills() {
       </div>
 
       <p className=" mt-3 md:px-30 ">
-      <img className="h-6 w-6" src="Images/react-logo.jpeg" alt="" />React</p>
+      <img className="h-6 w-6 " src="Images/react-logo.jpeg" alt="" />React</p>
       <div className="md:block hidden">
       <div className="h-4 w-90 flex  flex-col justify-center flex-wrap ml-30 bg-slate-600 rounded-r-full">
         <div  className="h-4 w-65 bg-pink-400  rounded-r-full " ></div>
