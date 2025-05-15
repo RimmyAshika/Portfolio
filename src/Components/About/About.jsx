@@ -25,10 +25,10 @@ function About() {
             <br />
             Let’s build something amazing together!
           </p>
+          <Link to="https://drive.google.com/file/d/1wvO7A7cpf9Ehr401KzIAqp2pu_3JsgPb/view?usp=sharing">
           <button className="w-40 h-10 text-[18px] hidden md:block font-bold rounded-full text-[#ffffff] ml-30 mt-4 md:mt-5  cursor-pointer bg-gradient-to-r from-[#2c0024] to-[#c08fc0]">
             More about me
-          </button>
-          <Link to="https://drive.google.com/file/d/1wvO7A7cpf9Ehr401KzIAqp2pu_3JsgPb/view?usp=sharing">
+          </button> 
             <button className="w-40 h-10 md:hidden text-[18px] font-bold rounded-full text-[#ffffff] mb-3 mt-4 cursor-pointer bg-gradient-to-r from-[#2c0024] to-[#c08fc0]">
               Download CV
             </button>
